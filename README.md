@@ -176,6 +176,8 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 - checkout.do - Dynamic Checkout Redirection
 - esignatures.do - Simple 
 - notary.do - Remote Online Notary
+- payments.do - Payment Facilitatation
+- income.do - Income Verification
 - poa.do - Power of Attorney
 
 ### Automotive Services
