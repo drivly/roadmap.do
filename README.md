@@ -36,8 +36,8 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 - alarms.do
 - alerts.do
 - bindings.do - Service Binding Proxy Mesh
-- counts.do - 
-- cname.do - 
+- count.do - Count Service
+- cname.do - Dynamic CNAME Proxy
 - events.do -
 - ddns.do - Dynamic DNS Service
 - debug.do - 
