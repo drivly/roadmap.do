@@ -11,11 +11,21 @@ Amazon started as an online bookstore, but it became what it is today through Je
 > 6. Anyone who doesn’t do this will be fired.
 > 7. Thank you; have a nice day!
 
-This is the philosophy we believe at Drivly as well. 
+Brian Armstrong, Founder and CEO at Coinbase, in a letter to software engineers he demanded his team communicate via APIs instead of meetings. 
 
-Our core business is three layers
+He directed his team to: 
+> 1. “publish APIs so that other teams can benefit from what they’re building without ever needing to schedule a meeting.”
+> 2. “productize their services and allow other teams to use them in a self-service way.”
+> 
+> If you want to know my honest opinion, frankly, I will do anything to avoid meetings. So I preach it.
 
+These are philosophies that we strongly believe at Drivly as well. 
+
+Our core business consists of three layers:
+
+```
 Data -> Services -> Commerce
+```
 
 Data powers the services, and the data and services power the commerce.
 
