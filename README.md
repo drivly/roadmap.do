@@ -19,6 +19,12 @@ He directed his team to:
 > 
 > If you want to know my honest opinion, frankly, I will do anything to avoid meetings. So I preach it.
 
+Additionally, we want to embrace the Unix philosophy of:
+- Do one thing, and do it well
+- Expect the output of one program to be the input of a yet unknown other program
+- Design and build software to be tried early
+- Use tools instead of labor to automate tasks and solve problems
+
 These are philosophies that we strongly believe at Drivly as well. 
 
 Our core business consists of three layers:
