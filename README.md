@@ -48,7 +48,8 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 - ddns.do - Dynamic DNS Service
 - debug.do - 
 - decode.do - 
-- fetch.do
+- [fetch.do](https://fetch.do)
+- [fetcher.do](https://fetcher.do)
 - hostname.do
 - lists.do
 - lodash.do
