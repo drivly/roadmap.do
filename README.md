@@ -75,7 +75,7 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 ### APIs
 
 - [apikeys.do](https://apikeys.do) - API Key Management & Analytics
-- crud.do - Dynamic Hypermedia-driven RESTful CRUD APIs
+- [crud.do](https://crud.do) - Dynamic Hypermedia-driven RESTful CRUD APIs
 - rate.limit.do
 
 ### Security
