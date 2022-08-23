@@ -39,7 +39,7 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 
 ### Primitives
 
-- alarms.do
+- [alarms.do](https://alarms.do)
 - alerts.do
 - bindings.do - Service Binding Proxy Mesh
 - count.do - Count Service
