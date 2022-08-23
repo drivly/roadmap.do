@@ -42,7 +42,7 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 - [alarms.do](https://alarms.do)
 - alerts.do
 - bindings.do - Service Binding Proxy Mesh
-- count.do - Count Service
+- [count.do](https://count.do) - Count Service
 - cname.do - Dynamic CNAME Proxy
 - events.do -
 - ddns.do - Dynamic DNS Service
@@ -66,15 +66,15 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 
 ### Utilities
 
-- api.qa - Hypermedia-driven Automated API Testing
+- [api.qa](https://api.qa) - Hypermedia-driven Automated API Testing
 - benchmark.do
-- colo.do 
+- [colo.do](https://colo.do) 
 - cors.do - CORS API Proxy
 - logs.do
 
 ### APIs
 
-- apikeys.do
+- [apikeys.do](https://apikeys.do) - API Key Management & Analytics
 - crud.do - Dynamic Hypermedia-driven RESTful CRUD APIs
 - rate.limit.do
 
@@ -82,17 +82,17 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 
 - jwt.do
 - keys.do
-- oauth.do
+- [oauth.do](https://oauth.do)
 
 ### Database
 
-- graphdl.org
-- graph.do
+- [graphdl.org](https://graphdl.org) - Graph Definition Language
+- [graph.do](https://graph.do) - Managed Version of the GraphDL Reference Implementation
 - database.do
 - backups.do
 - imports.do
 - exports.do
-- bases.do - Airtable Base API Proxy to manage Airtable Rate Limits and prevent data loss
+- [bases.do](https://bases.do) - Airtable Base API Proxy to manage Airtable Rate Limits and prevent data loss
 - sheet.do
 
 ### Data Transformation
@@ -188,7 +188,7 @@ from the [7GUIs benchmark](https://eugenkiss.github.io/7guis/tasks)
 - esignatures.do - Simple 
 - notary.do - Remote Online Notary
 - payments.do - Payment Facilitatation
-- income.do - Income Verification
+- [income.do](https://income.do) - Income Verification
 - poa.do - Power of Attorney
 
 ### Automotive Services
