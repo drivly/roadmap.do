@@ -49,6 +49,8 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 - ddns.do - Dynamic DNS Service
 - debug.do - 
 - decode.do - 
+- [decrypt.do](https://decrypt.do) - Decrypt Data
+- [encrypt.do](https://encrypt.do) - Encrypt Data
 - [fetch.do](https://fetch.do)
 - [fetcher.do](https://fetcher.do)
 - [flatten.do](https://flatten.do) - Flatten JSON Objects
