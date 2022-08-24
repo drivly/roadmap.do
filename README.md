@@ -50,7 +50,7 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 - decode.do - 
 - [fetch.do](https://fetch.do)
 - [fetcher.do](https://fetcher.do)
-- [flatten.do](https://flatten.do)
+- [flatten.do](https://flatten.do) - Flatten JSON Objects
 - hostname.do
 - lists.do
 - lodash.do
@@ -65,7 +65,7 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 - schema.do
 - [state.do](https://state.do) - Finite State Machine
 - swr.do - Stale While Refresh Cached Proxy
-- [un.flatten.do](https://un.flatten.do)
+- [un.flatten.do](https://un.flatten.do) - UnFlatten JSON Objects
 - webhooks.do
 - zones.do
 
