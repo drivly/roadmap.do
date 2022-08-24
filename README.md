@@ -53,6 +53,7 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 - [fetcher.do](https://fetcher.do)
 - [flatten.do](https://flatten.do) - Flatten JSON Objects
 - hostname.do
+- [kebab.case.do](https://kebab.case.do) - Convert Text and JSON Object Keys to kebab-case
 - lists.do
 - lodash.do
 - modules.do
