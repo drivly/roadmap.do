@@ -56,6 +56,7 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 - lodash.do
 - modules.do
 - obj.do
+- [json.path.do](https://json.path.do) - JSON Path Transformer
 - pkg.do 
 - [queue.do](https://queue.do) - FIFO (First-In First-Out) Queue
 - [stacks.do](https://stacks.do) - LIFO (Last-In First-Out) Stack
@@ -64,6 +65,7 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 - schema.do
 - [state.do](https://state.do) - Finite State Machine
 - swr.do - Stale While Refresh Cached Proxy
+- [un.flatten.do](https://un.flatten.do)
 - webhooks.do
 - zones.do
 
