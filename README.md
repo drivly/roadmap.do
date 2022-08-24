@@ -58,6 +58,7 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 - obj.do
 - [json.path.do](https://json.path.do) - JSON Path Transformer
 - pkg.do 
+- [pipe.do](https://pipe.do) - Unix Pipes in the Cloud
 - [queue.do](https://queue.do) - FIFO (First-In First-Out) Queue
 - [stacks.do](https://stacks.do) - LIFO (Last-In First-Out) Stack
 - repo.do
