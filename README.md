@@ -87,7 +87,13 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 - cors.do - CORS API Proxy
 - logs.do
 
-### APIs
+### API Foundations
+
+- [triggers.do](https://triggers.do)
+- [searches.do](https://searches.do)
+- [actions.do](https://actions.do)
+
+### API Utilities
 
 - [apikeys.do](https://apikeys.do) - API Key Management & Analytics
 - [crud.do](https://crud.do) - Dynamic Hypermedia-driven RESTful CRUD APIs
