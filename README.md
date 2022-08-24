@@ -62,10 +62,12 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 - pkg.do 
 - [pipe.do](https://pipe.do) - Unix Pipes in the Cloud
 - [queue.do](https://queue.do) - FIFO (First-In First-Out) Queue
+- [screaming.snake.case.do](https://screaming.snake.case.do) - Convert Text and JSON Object Keys to SCREAMING_SNAKE_CASE
 - [snake.case.do](https://snake.case.do) - Convert Text and JSON Object Keys to snake_case
 - [stacks.do](https://stacks.do) - LIFO (Last-In First-Out) Stack
 - repo.do
 - rewrites.do
+- [title.case.do](https://title.case.do) - Convert Text and JSON Object Keys to Title Case
 - schema.do
 - [state.do](https://state.do) - Finite State Machine
 - swr.do - Stale While Refresh Cached Proxy
