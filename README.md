@@ -69,6 +69,7 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 - [snake.case.do](https://snake.case.do) - Convert Text and JSON Object Keys to snake_case
 - [stacks.do](https://stacks.do) - LIFO (Last-In First-Out) Stack
 - repo.do
+- [req.do](https://req.do) - Capture Requests & Responses
 - rewrites.do
 - [title.case.do](https://title.case.do) - Convert Text and JSON Object Keys to Title Case
 - schema.do
