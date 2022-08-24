@@ -108,6 +108,7 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 - exports.do
 - [bases.do](https://bases.do) - Airtable Base API Proxy to manage Airtable Rate Limits and prevent data loss
 - sheet.do
+- redis.do - Redis-compatible API on Durable Objects
 
 ### Data Transformation
 
