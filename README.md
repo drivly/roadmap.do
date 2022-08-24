@@ -54,6 +54,7 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 - [fetch.do](https://fetch.do)
 - [fetcher.do](https://fetcher.do)
 - [flatten.do](https://flatten.do) - Flatten JSON Objects
+- [hashes.do](https://hashes.do) - Generate and Validate Hashes
 - hostname.do
 - [kebab.case.do](https://kebab.case.do) - Convert Text and JSON Object Keys to kebab-case
 - lists.do
