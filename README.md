@@ -50,6 +50,7 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 - decode.do - 
 - [fetch.do](https://fetch.do)
 - [fetcher.do](https://fetcher.do)
+- [flatten.do](https://flatten.do)
 - hostname.do
 - lists.do
 - lodash.do
