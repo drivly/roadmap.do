@@ -56,11 +56,12 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 - modules.do
 - obj.do
 - pkg.do 
-- queue.do - FIFO implementation on Durable Objects
-- stacks.do - LIFO implementation on Durable Objects
+- [queue.do](https://queue.do) - FIFO (First-In First-Out) Queue
+- [stacks.do](https://stacks.do) - LIFO (Last-In First-Out) Stack
 - repo.do
 - rewrites.do
 - schema.do
+- [state.do](https://state.do) - Finite State Machine
 - swr.do - Stale While Refresh Cached Proxy
 - webhooks.do
 - zones.do
