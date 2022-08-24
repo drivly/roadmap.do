@@ -43,6 +43,7 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 - alerts.do
 - bindings.do - Service Binding Proxy Mesh
 - [count.do](https://count.do) - Count Service
+- [camel.case.do](https://camel.case.do) - Convert Text and JSON Object Keys to camelCase
 - cname.do - Dynamic CNAME Proxy
 - events.do -
 - ddns.do - Dynamic DNS Service
@@ -60,6 +61,7 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 - pkg.do 
 - [pipe.do](https://pipe.do) - Unix Pipes in the Cloud
 - [queue.do](https://queue.do) - FIFO (First-In First-Out) Queue
+- [snake.case.do](https://snake.case.do) - Convert Text and JSON Object Keys to snake_case
 - [stacks.do](https://stacks.do) - LIFO (Last-In First-Out) Stack
 - repo.do
 - rewrites.do
