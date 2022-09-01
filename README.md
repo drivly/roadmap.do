@@ -4,7 +4,7 @@
 
 [Drivly](https://driv.ly) is simple APIs to buy & sell cars online, funded by some of the [biggest names](https://twitter.com/TurnerNovak) in [automotive](https://fontinalis.com/team/#bill-ford) and [finance & insurance](https://www.detroit.vc)
 
-We're building our entire infrastructure on Cloudflare Workers, Durable Objects, KV, R2, and PubSub as Open Source Micro-Services.  
+We're building our entire infrastructure on Durable Objects and the Cloudflare Workers ecosystem as composable, open-source microservices.  
 
 ## The Jeff Bezos API Mandate
 
