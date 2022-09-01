@@ -112,6 +112,7 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 - [apikeys.do](https://apikeys.do) - API Key Management & Analytics
 - [crud.do](https://crud.do) - Dynamic Hypermedia-driven RESTful CRUD APIs
 - rate.limit.do - API Rate Limiting Service
+- compose.do - Dynamically Compose & Chain APIs
 
 ## Security
 
@@ -199,7 +200,8 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 
 ## SaaS
 
-- users.do
+- crms.do - Customer Relationship Management System (CRM) Durable Object
+- users.do - User Management
 
 ## Automotive Data
 
@@ -217,6 +219,7 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 
 ## Horizontal Services
 
+- bos.do - Bill of Sale API
 - turk.do - Mechanical Turks API
 - concierge.do - 
 - checkout.do - Dynamic Checkout Redirection
