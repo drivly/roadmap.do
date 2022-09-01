@@ -1,5 +1,11 @@
 # Roadmap.DO - The Drivly Open Roadmap
 
+## [Drivly](https://driv.ly)
+
+[Drivly](https://driv.ly) is simple APIs to buy & sell cars online, funded by some of the [biggest names](https://twitter.com/TurnerNovak) in [automotive](https://fontinalis.com/team/#bill-ford) and [finance & insurance](https://www.detroit.vc)
+
+We're building our entire infrastructure on Cloudflare Workers, Durable Objects, KV, R2, and PubSub as Open Source Micro-Services.  
+
 ## The Jeff Bezos API Mandate
 
 Amazon started as an online bookstore, but it became what it is today through Jeff's Bezos 2002 memo mandating that everything being built at Amazon must have an API:
@@ -229,6 +235,4 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 
 
 ## [🚀 We're hiring!](https://careers.do/apply)
-[Driv.ly](https://driv.ly) is simple APIs to buy & sell cars online, funded by some of the [biggest names](https://twitter.com/TurnerNovak) in [automotive](https://fontinalis.com/team/#bill-ford) and [finance & insurance](https://www.detroit.vc)
-
-We're building our entire infrastructure on Cloudflare Workers, Durable Objects, KV, R2, and PubSub.  If you're as passionate about these transformational technologies as we are, we'd love for you to join our rapidly-growing team.
+If you're as passionate about these transformational technologies as we are, we'd love for you to join our rapidly-growing team.
