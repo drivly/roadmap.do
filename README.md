@@ -51,30 +51,30 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 
 ## Primitives
 
-- alarms.do
-- alerts.do
-- bindings.do - Service Binding Proxy Mesh
+- alarms.do - Time-based Triggers
+- alerts.do - Generate Alerts when State Changes or Conditions are Met
+- bindings.do - Dymamic Service Binding Proxy Mesh
 - [count.do](https://count.do) - Count Service
 - [camel.case.do](https://camel.case.do) - Convert Text and JSON Object Keys to camelCase
 - cname.do - Dynamic CNAME Proxy
-- events.do -
+- events.do - 
 - ddns.do - Dynamic DNS Service
-- debug.do - 
-- decode.do - 
+- debug.do - Debug HTTP Requests & APIs
+- decode.do - Decode Data
 - [decrypt.do](https://decrypt.do) - Decrypt Data
 - [encrypt.do](https://encrypt.do) - Encrypt Data
-- [fetch.do](https://fetch.do)
-- [fetcher.do](https://fetcher.do)
+- [fetch.do](https://fetch.do) - Fetch API
+- [fetcher.do](https://fetcher.do) - Iterative & Recursive Fetcher
 - [flatten.do](https://flatten.do) - Flatten JSON Objects
 - [hashes.do](https://hashes.do) - Generate and Validate Hashes
-- hostname.do
+- hostname.do - Dynamically Generate Domain Names
 - [kebab.case.do](https://kebab.case.do) - Convert Text and JSON Object Keys to kebab-case
-- lists.do
-- lodash.do
+- lists.do 
+- [lodash.do](https://lodash.do) - Lodash as REST API
 - modules.do
 - obj.do
 - [json.path.do](https://json.path.do) - JSON Path Transformer
-- pkg.do 
+- pkg.do - Dynamic Package Management
 - [pipe.do](https://pipe.do) - Unix Pipes in the Cloud
 - [queue.do](https://queue.do) - FIFO (First-In First-Out) Queue
 - [screaming.snake.case.do](https://screaming.snake.case.do) - Convert Text and JSON Object Keys to SCREAMING_SNAKE_CASE
@@ -84,49 +84,51 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 - [req.do](https://req.do) - Capture Requests & Responses
 - rewrites.do
 - [title.case.do](https://title.case.do) - Convert Text and JSON Object Keys to Title Case
-- schema.do
+- [schema.do](https://schema.do) - Dynamic Schema Inference and Generation
 - [state.do](https://state.do) - Finite State Machine
 - swr.do - Stale While Refresh Cached Proxy
 - [un.flatten.do](https://un.flatten.do) - UnFlatten JSON Objects
-- webhooks.do
-- zones.do
+- webhooks.do - Webhook Managment API
+- zones.do - Cloudflare Zone Management
 
 ## Utilities
 
 - [api.qa](https://api.qa) - Hypermedia-driven Automated API Testing
-- benchmark.do
+- [benchmark.do](https://benchmark.do) - Benchmark Performance over Time
 - [colo.do](https://colo.do) 
 - cors.do - CORS API Proxy
-- logs.do
+- [perf.do](https://perf.do) - Measure HTTP Request Performance & Latency
+- [colo.do](https://colo.do) - Cloudflare Durable Object Proxy for specific Colo Locations
+- [logging.do](https://logging.do) - Logging-as-a-Service API
 
 ## API Foundations
 
-- [triggers.do](https://triggers.do)
-- [searches.do](https://searches.do)
-- [actions.do](https://actions.do)
+- [triggers.do](https://triggers.do) - API Triggers
+- [searches.do](https://searches.do) - API Searches
+- [actions.do](https://actions.do) - API Actions
 
 ## API Utilities
 
 - [apikeys.do](https://apikeys.do) - API Key Management & Analytics
 - [crud.do](https://crud.do) - Dynamic Hypermedia-driven RESTful CRUD APIs
-- rate.limit.do
+- rate.limit.do - API Rate Limiting Service
 
 ## Security
 
 - jwt.do
 - keys.do
-- [oauth.do](https://oauth.do)
+- [oauth.do](https://oauth.do) - OAuth2 Service
 
 ## Database
 
 - [graphdl.org](https://graphdl.org) - Graph Definition Language
 - [graph.do](https://graph.do) - Managed Version of the GraphDL Reference Implementation
-- database.do
-- backups.do
-- imports.do
-- exports.do
-- [bases.do](https://bases.do) - Airtable Base API Proxy to manage Airtable Rate Limits and prevent data loss
-- sheet.do
+- [database.do](https://database.do) - Durable Object-based Database
+- backups.do - Backup Durable Objects
+- imports.do - Import Data into Durable Objects
+- exports.do - Export Data into Durable Objects
+- [bases.do](https://bases.do) - Airtable Base API Proxy
+- sheet.do - Google Sheets API Proxy
 - redis.do - Redis-compatible API on Durable Objects
 
 ## Data Transformation
