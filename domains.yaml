@@ -1,17 +1,14 @@
 ach.do
 actions.do
-actions.do
 airbase.do
 alarms.do
 alerts.do
-algorithms.do
 algorithms.do
 analytics.do
 apikeys.do
 apis.do
 apis.do
 approvals.do
-assistants.do
 assistants.do
 backups.do
 bases.do
@@ -23,7 +20,6 @@ bos.do
 boxes.do
 bucket.do
 builders.do
-builds.do
 builds.do
 caches.do
 cards.do
@@ -48,11 +44,9 @@ count.do
 counters.do
 crms.do
 cron.do
-cron.do
 crud.do
 csv.do
 ctx.do
-customers.do
 customers.do
 d1.do
 d2.do
@@ -67,7 +61,6 @@ deck.do
 decode.do
 decrypt.do
 delivers.do
-delivers.do
 deploys.do
 directory.do
 discord.do
@@ -80,10 +73,8 @@ emails.do
 embed.do
 emojis.do
 employees.do
-employees.do
 encrypt.do
 encrypted.do
-engineers.do
 engineers.do
 entity.do
 env.do
@@ -122,7 +113,6 @@ hmac.do
 hostname.do
 hostnames.do
 humans.do
-humans.do
 hunts.do
 icons.do
 id8.do
@@ -132,7 +122,6 @@ images.do
 imports.do
 income.do
 indexes.do
-inspectors.do
 inspectors.do
 interns.do
 iterate.do
@@ -158,7 +147,6 @@ machines.do
 markdown.do
 mashup.do
 mdx.do
-members.do
 members.do
 mgmt.do
 middleware.do
@@ -196,7 +184,6 @@ pricing.do
 primitives.do
 products.do
 programmers.do
-programmers.do
 projects.do
 prxy.do
 query.do
@@ -220,9 +207,7 @@ schema.do
 scraper.do
 scripts.do
 searches.do
-searches.do
 select.do
-services.do
 services.do
 session.do
 sheet.do
@@ -254,15 +239,12 @@ texts.do
 timer.do
 tos.do
 trades.do
-trades.do
-trading.do
 trading.do
 transaction.do
 transform.do
 transport.do
 trigger.do
 trigger.do
-triggers.do
 triggers.do
 triples.do
 triples.do
@@ -283,10 +265,7 @@ webhooks.do
 websockets.do
 wikis.do
 worker.do
-worker.do
 workers.do
-workers.do
-workflows.do
 workflows.do
 yaml.do
 zaps.do
