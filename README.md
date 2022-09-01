@@ -11,6 +11,8 @@ Amazon started as an online bookstore, but it became what it is today through Je
 > 6. Anyone who doesn’t do this will be fired.
 > 7. Thank you; have a nice day!
 
+## Communicate via APIs instead of Meetings
+
 Brian Armstrong, Founder and CEO at Coinbase, in a letter to software engineers he demanded his team communicate via APIs instead of meetings. 
 
 He directed his team to: 
@@ -19,6 +21,8 @@ He directed his team to:
 > 
 > If you want to know my honest opinion, frankly, I will do anything to avoid meetings. So I preach it.
 
+## Do one thing, and do it well
+
 Additionally, we want to embrace the Unix philosophy of:
 - Do one thing, and do it well
 - Expect the output of one program to be the input of a yet unknown other program
@@ -26,6 +30,8 @@ Additionally, we want to embrace the Unix philosophy of:
 - Use tools instead of labor to automate tasks and solve problems
 
 These are philosophies that we strongly believe at Drivly as well. 
+
+## The Drivly Stack
 
 Our core business consists of three layers:
 
@@ -37,9 +43,9 @@ Data powers the services, and the data and services power the commerce.
 
 But underneath the Data and Services layers, there are hundreds of lower-level abstractions.  Rather than allowing our higher-level code to bloat with lower-level concepts, we are going to be open-sourcing 100+ production-ready APIs that are valuable in and of themselves, but the greatest value is when they can be used as building blocks to rapidly assemble higher-order concepts and APIs.
 
-### Primitives
+## Primitives
 
-- [alarms.do](https://alarms.do)
+- alarms.do
 - alerts.do
 - bindings.do - Service Binding Proxy Mesh
 - [count.do](https://count.do) - Count Service
@@ -79,7 +85,7 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 - webhooks.do
 - zones.do
 
-### Utilities
+## Utilities
 
 - [api.qa](https://api.qa) - Hypermedia-driven Automated API Testing
 - benchmark.do
@@ -87,25 +93,25 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 - cors.do - CORS API Proxy
 - logs.do
 
-### API Foundations
+## API Foundations
 
 - [triggers.do](https://triggers.do)
 - [searches.do](https://searches.do)
 - [actions.do](https://actions.do)
 
-### API Utilities
+## API Utilities
 
 - [apikeys.do](https://apikeys.do) - API Key Management & Analytics
 - [crud.do](https://crud.do) - Dynamic Hypermedia-driven RESTful CRUD APIs
 - rate.limit.do
 
-### Security
+## Security
 
 - jwt.do
 - keys.do
 - [oauth.do](https://oauth.do)
 
-### Database
+## Database
 
 - [graphdl.org](https://graphdl.org) - Graph Definition Language
 - [graph.do](https://graph.do) - Managed Version of the GraphDL Reference Implementation
@@ -117,13 +123,13 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 - sheet.do
 - redis.do - Redis-compatible API on Durable Objects
 
-### Data Transformation
+## Data Transformation
 
 - transform.do
 - mashup.do
 - scraper.do
 
-### Communication
+## Communication
 
 - emails.do
 - texts.do
@@ -131,36 +137,31 @@ But underneath the Data and Services layers, there are hundreds of lower-level a
 - slack.do
 - drip.do
 
-### Integration
+## Integration
 
 - zaps.do - 
 
-### Storage
+## Storage
 
 - bucket.do
 
-### Analytics
+## Analytics
 
 - analytics.do
 
-### Workflows
+## Workflows
 
 - approvals.do
 - flows.do
 - workflows.do
 
-### User Interface
-from the [7GUIs benchmark](https://eugenkiss.github.io/7guis/tasks)
-- counter.do
-
-
-### Product 
+## Product 
 
 - features.do
 - flags.do
 - products.do
 
-### Websites
+## Websites
 
 - blogs.do
 - content.do
@@ -168,17 +169,17 @@ from the [7GUIs benchmark](https://eugenkiss.github.io/7guis/tasks)
 - pages.do
 - sites.do
 
-### Marketing 
+## Marketing 
 
 - hunts.do - Product Hunt Launch Automation
 - flags.do
 - waitlist.do
 
-### Open Source
+## Open Source
 
 - sponsors.do - Drivly's GitHub Sponsor Application Form
 
-### Startups
+## Startups
 
 - startups.do
 - drip.do - Automated Email Drip Campaigns
@@ -188,11 +189,11 @@ from the [7GUIs benchmark](https://eugenkiss.github.io/7guis/tasks)
 - okr.do
 - id8.do - Ideation tracking
 
-### SaaS
+## SaaS
 
-- c
+- users.do
 
-### Automotive Data
+## Automotive Data
 
 - dealers.do
 - lenders.do
@@ -202,7 +203,7 @@ from the [7GUIs benchmark](https://eugenkiss.github.io/7guis/tasks)
 - listings.api.auto.dev - 
 
 
-### Horizontal Services
+## Horizontal Services
 
 - turk.do - Mechanical Turks API
 - concierge.do - 
@@ -213,7 +214,7 @@ from the [7GUIs benchmark](https://eugenkiss.github.io/7guis/tasks)
 - [income.do](https://income.do) - Income Verification
 - poa.do - Power of Attorney
 
-### Automotive Services
+## Automotive Services
 
 - inspection.api.driv.ly - Build a new vehicle
 - transport.api.driv.ly - Transport a vehicle
